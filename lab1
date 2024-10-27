@@ -3,7 +3,7 @@
     <title>Code Example</title>
 </head>
 <body>
-    <p>Стандартний код "Hello World!" " program:</p>
+    <p>Стандартний код "Hello World!" </p>
     <pre>
         <code>
             &lt;!DOCTYPE html&gt;
